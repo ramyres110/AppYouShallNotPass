@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.YouShallNotPass" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/yellowBg</item>
+        <item name="android:windowSplashScreenBackground">@color/yellowBg</item>
+<!--        <item name="android:windowSplashScreenBrandingImage">@drawable/placa_gandalf</item>-->
+    </style>
+</resources>

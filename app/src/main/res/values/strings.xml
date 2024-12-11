@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">You Shall Not Pass</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
